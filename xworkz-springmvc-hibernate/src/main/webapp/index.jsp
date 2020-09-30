@@ -11,7 +11,7 @@
 
 		<pre>
 			
-			Enter Place: <input type="text" name="place" />
+			Enter Place Name: <input type="text" name="place" />
 			
 			Enter Date: <input type="text" name="date" />
 			

@@ -9,7 +9,7 @@
 <body>
 <form>
 	<h1>Registration is done....</h1>
-	<h2>Below Registration Details are:</h2>
+	
 	<h2>${place}</h2>
 	<h2>${date}</h2>
 	<h2>${type}</h2>
